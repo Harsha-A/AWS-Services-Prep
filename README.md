@@ -1,6 +1,3 @@
-Based on the research, I'll create a comprehensive Amazon EventBridge interview Q&A document following the same structure as your SQS-SNS repository, without any references.
-
-***
 
 # Amazon EventBridge - Interview Questions & Answers
 
