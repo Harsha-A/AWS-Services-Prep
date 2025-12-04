@@ -1,6 +1,3 @@
-# AWS-Services-Prep
-All new repo to prepare for AWS Interview and Exams
-
 # AWS AppConfig – Interview Questions
 
 A focused set of AWS AppConfig interview questions, modeled similarly to the SQS & SNS Q&A style, covering fundamentals, architecture, integration, and advanced topics.
