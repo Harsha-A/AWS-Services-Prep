@@ -1,6 +1,6 @@
 # AWS AppConfig – Interview Questions
 
-A focused set of AWS AppConfig interview questions, modeled similarly to the SQS & SNS Q&A style, covering fundamentals, architecture, integration, and advanced topics.
+A focused set of AWS AppConfig interview questions, covering fundamentals, architecture, integration, and advanced topics.
 
 ---
 
